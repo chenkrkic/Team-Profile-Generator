@@ -15,13 +15,17 @@ This is a Node command-line application that uses inquirer and collect informati
 - The user will be prompted for information to select employee type
 
    Manager (only one)
+
    Engineer (any number)
+
    Intern (any number)
 
 - All employee will be asked to provide following information. 
 
    Name
+
    ID
+   
    Email
 
 - Additional questions are presented to different roles. 
