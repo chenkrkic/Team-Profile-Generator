@@ -21,7 +21,7 @@ body {
 }
 
 .jumbotron {
-  background: #152c40;
+  background: #d35e51;
 }
 
 .employee-card {
@@ -29,7 +29,7 @@ body {
 }
 
 .card-header {
-  background: #2d5d87;
+  background: #5f9ace;
 }
 
 .card-body {
@@ -43,5 +43,4 @@ a {
 a:hover {
   color: #d9b991;
   text-decoration: none;
-  text-transform: uppercase;
 }
