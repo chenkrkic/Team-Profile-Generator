@@ -21,5 +21,8 @@
   "homepage": "https://github.com/chenkrkic/Team-Profile-Generator#readme",
   "dependencies": {
     "inquirer": "^8.1.2"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
