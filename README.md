@@ -31,7 +31,9 @@ This is a Node command-line application that uses inquirer and collect informati
 - Additional questions are presented to different roles. 
 
    Manager - office number
+
    Engineer - GitHub username
+   
    Intern - school
 
 - Then a team.html page will be generated in the dist directory.
