@@ -39,6 +39,7 @@ This is a Node command-line application that uses inquirer and collect informati
  npm
 
 ## HTML Screenshot
+![Screen-Shot](https://user-images.githubusercontent.com/30817557/126135590-9eb67ba4-177a-4fe6-be78-52b0364b2c93.png)
 
 
 ## Demo
